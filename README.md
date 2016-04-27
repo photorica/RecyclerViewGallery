@@ -1,5 +1,4 @@
 # RecyclerViewGallery
-====
 
 Overview
 
