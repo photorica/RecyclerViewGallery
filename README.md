@@ -1,6 +1,4 @@
-# RecyclerViewGallery
-
-Overview
+RecyclerViewGallery
 
 ## Description
 
